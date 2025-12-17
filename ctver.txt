@@ -1,0 +1,2 @@
+0
+https://raw.githubusercontent.com/Applinter/myfirstproj/refs/heads/main/2w_conture.py
